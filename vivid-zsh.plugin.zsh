@@ -1,3 +1,5 @@
+vivid_theme="catppuccin-mocha"
+
 ANSI_RED="\e[0;31m"
 ANSI_RESET="\e[0m"
 
